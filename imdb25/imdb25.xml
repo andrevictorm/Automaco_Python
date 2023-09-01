@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><nome>None</nome><ano>None</ano><nota>None</nota></item>
+<item><nome>The Shawshank Redemption</nome><ano>(1994)</ano><nota>9.2</nota></item>
+<item><nome>The Godfather</nome><ano>(1972)</ano><nota>9.2</nota></item>
+<item><nome>The Dark Knight</nome><ano>(2008)</ano><nota>9.0</nota></item>
+<item><nome>The Godfather Part II</nome><ano>(1974)</ano><nota>9.0</nota></item>
+<item><nome>12 Angry Men</nome><ano>(1957)</ano><nota>9.0</nota></item>
+<item><nome>Schindler's List</nome><ano>(1993)</ano><nota>8.9</nota></item>
+<item><nome>The Lord of the Rings: The Return of the King</nome><ano>(2003)</ano><nota>8.9</nota></item>
+<item><nome>Pulp Fiction</nome><ano>(1994)</ano><nota>8.8</nota></item>
+<item><nome>The Lord of the Rings: The Fellowship of the Ring</nome><ano>(2001)</ano><nota>8.8</nota></item>
+<item><nome>The Good, the Bad and the Ugly</nome><ano>(1966)</ano><nota>8.8</nota></item>
+<item><nome>Forrest Gump</nome><ano>(1994)</ano><nota>8.8</nota></item>
+<item><nome>Fight Club</nome><ano>(1999)</ano><nota>8.7</nota></item>
+<item><nome>The Lord of the Rings: The Two Towers</nome><ano>(2002)</ano><nota>8.7</nota></item>
+<item><nome>Inception</nome><ano>(2010)</ano><nota>8.7</nota></item>
+<item><nome>Star Wars: Episode V - The Empire Strikes Back</nome><ano>(1980)</ano><nota>8.7</nota></item>
+<item><nome>The Matrix</nome><ano>(1999)</ano><nota>8.7</nota></item>
+<item><nome>Goodfellas</nome><ano>(1990)</ano><nota>8.7</nota></item>
+<item><nome>One Flew Over the Cuckoo's Nest</nome><ano>(1975)</ano><nota>8.6</nota></item>
+<item><nome>Se7en</nome><ano>(1995)</ano><nota>8.6</nota></item>
+<item><nome>Seven Samurai</nome><ano>(1954)</ano><nota>8.6</nota></item>
+<item><nome>It's a Wonderful Life</nome><ano>(1946)</ano><nota>8.6</nota></item>
+<item><nome>The Silence of the Lambs</nome><ano>(1991)</ano><nota>8.6</nota></item>
+<item><nome>City of God</nome><ano>(2002)</ano><nota>8.6</nota></item>
+<item><nome>Saving Private Ryan</nome><ano>(1998)</ano><nota>8.6</nota></item>
+<item><nome>Interstellar</nome><ano>(2014)</ano><nota>8.6</nota></item>
+<item><nome>Life Is Beautiful</nome><ano>(1997)</ano><nota>8.6</nota></item>
+<item><nome>The Green Mile</nome><ano>(1999)</ano><nota>8.6</nota></item>
+<item><nome>Star Wars: Episode IV - A New Hope</nome><ano>(1977)</ano><nota>8.5</nota></item>
+<item><nome>Terminator 2: Judgment Day</nome><ano>(1991)</ano><nota>8.5</nota></item>
+<item><nome>Back to the Future</nome><ano>(1985)</ano><nota>8.5</nota></item>
+<item><nome>Spirited Away</nome><ano>(2001)</ano><nota>8.5</nota></item>
+<item><nome>The Pianist</nome><ano>(2002)</ano><nota>8.5</nota></item>
+<item><nome>Psycho</nome><ano>(1960)</ano><nota>8.5</nota></item>
+<item><nome>Parasite</nome><ano>(2019)</ano><nota>8.5</nota></item>
+<item><nome>Léon: The Professional</nome><ano>(1994)</ano><nota>8.5</nota></item>
+<item><nome>The Lion King</nome><ano>(1994)</ano><nota>8.5</nota></item>
+<item><nome>Gladiator</nome><ano>(2000)</ano><nota>8.5</nota></item>
+<item><nome>American History X</nome><ano>(1998)</ano><nota>8.5</nota></item>
+<item><nome>The Departed</nome><ano>(2006)</ano><nota>8.5</nota></item>
+<item><nome>The Usual Suspects</nome><ano>(1995)</ano><nota>8.5</nota></item>
+<item><nome>The Prestige</nome><ano>(2006)</ano><nota>8.5</nota></item>
+<item><nome>Whiplash</nome><ano>(2014)</ano><nota>8.5</nota></item>
+<item><nome>Casablanca</nome><ano>(1942)</ano><nota>8.5</nota></item>
+<item><nome>Harakiri</nome><ano>(1962)</ano><nota>8.5</nota></item>
+<item><nome>Grave of the Fireflies</nome><ano>(1988)</ano><nota>8.5</nota></item>
+<item><nome>The Intouchables</nome><ano>(2011)</ano><nota>8.5</nota></item>
+<item><nome>Modern Times</nome><ano>(1936)</ano><nota>8.4</nota></item>
+<item><nome>Once Upon a Time in the West</nome><ano>(1968)</ano><nota>8.4</nota></item>
+<item><nome>Rear Window</nome><ano>(1954)</ano><nota>8.4</nota></item>
+<item><nome>Cinema Paradiso</nome><ano>(1988)</ano><nota>8.4</nota></item>
+<item><nome>Alien</nome><ano>(1979)</ano><nota>8.4</nota></item>
+<item><nome>City Lights</nome><ano>(1931)</ano><nota>8.4</nota></item>
+<item><nome>Apocalypse Now</nome><ano>(1979)</ano><nota>8.4</nota></item>
+<item><nome>Memento</nome><ano>(2000)</ano><nota>8.4</nota></item>
+<item><nome>Django Unchained</nome><ano>(2012)</ano><nota>8.4</nota></item>
+<item><nome>Indiana Jones and the Raiders of the Lost Ark</nome><ano>(1981)</ano><nota>8.4</nota></item>
+<item><nome>WALL·E</nome><ano>(2008)</ano><nota>8.4</nota></item>
+<item><nome>The Lives of Others</nome><ano>(2006)</ano><nota>8.4</nota></item>
+<item><nome>Sunset Blvd.</nome><ano>(1950)</ano><nota>8.4</nota></item>
+<item><nome>Paths of Glory</nome><ano>(1957)</ano><nota>8.4</nota></item>
+<item><nome>The Shining</nome><ano>(1980)</ano><nota>8.4</nota></item>
+<item><nome>The Great Dictator</nome><ano>(1940)</ano><nota>8.4</nota></item>
+<item><nome>Avengers: Infinity War</nome><ano>(2018)</ano><nota>8.4</nota></item>
+<item><nome>Witness for the Prosecution</nome><ano>(1957)</ano><nota>8.4</nota></item>
+<item><nome>Aliens</nome><ano>(1986)</ano><nota>8.3</nota></item>
+<item><nome>Spider-Man: Into the Spider-Verse</nome><ano>(2018)</ano><nota>8.3</nota></item>
+<item><nome>American Beauty</nome><ano>(1999)</ano><nota>8.3</nota></item>
+<item><nome>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</nome><ano>(1964)</ano><nota>8.3</nota></item>
+<item><nome>The Dark Knight Rises</nome><ano>(2012)</ano><nota>8.3</nota></item>
+<item><nome>Oldboy</nome><ano>(2003)</ano><nota>8.3</nota></item>
+<item><nome>Inglourious Basterds</nome><ano>(2009)</ano><nota>8.3</nota></item>
+<item><nome>Amadeus</nome><ano>(1984)</ano><nota>8.3</nota></item>
+<item><nome>Coco</nome><ano>(2017)</ano><nota>8.3</nota></item>
+<item><nome>Toy Story</nome><ano>(1995)</ano><nota>8.3</nota></item>
+<item><nome>Joker</nome><ano>(2019)</ano><nota>8.3</nota></item>
+<item><nome>Braveheart</nome><ano>(1995)</ano><nota>8.3</nota></item>
+<item><nome>The Boat</nome><ano>(1981)</ano><nota>8.3</nota></item>
+<item><nome>Avengers: Endgame</nome><ano>(2019)</ano><nota>8.3</nota></item>
+<item><nome>Princess Mononoke</nome><ano>(1997)</ano><nota>8.3</nota></item>
+<item><nome>Once Upon a Time in America</nome><ano>(1984)</ano><nota>8.3</nota></item>
+<item><nome>Good Will Hunting</nome><ano>(1997)</ano><nota>8.3</nota></item>
+<item><nome>Your Name.</nome><ano>(2016)</ano><nota>8.3</nota></item>
+<item><nome>3 Idiots</nome><ano>(2009)</ano><nota>8.3</nota></item>
+<item><nome>Singin' in the Rain</nome><ano>(1952)</ano><nota>8.3</nota></item>
+<item><nome>Requiem for a Dream</nome><ano>(2000)</ano><nota>8.3</nota></item>
+<item><nome>Toy Story 3</nome><ano>(2010)</ano><nota>8.3</nota></item>
+<item><nome>High and Low</nome><ano>(1963)</ano><nota>8.3</nota></item>
+<item><nome>Capernaum</nome><ano>(2018)</ano><nota>8.3</nota></item>
+<item><nome>Star Wars: Episode VI - Return of the Jedi</nome><ano>(1983)</ano><nota>8.3</nota></item>
+<item><nome>Eternal Sunshine of the Spotless Mind</nome><ano>(2004)</ano><nota>8.3</nota></item>
+<item><nome>2001: A Space Odyssey</nome><ano>(1968)</ano><nota>8.3</nota></item>
+<item><nome>Reservoir Dogs</nome><ano>(1992)</ano><nota>8.3</nota></item>
+<item><nome>Come and See</nome><ano>(1985)</ano><nota>8.3</nota></item>
+<item><nome>The Hunt</nome><ano>(2012)</ano><nota>8.3</nota></item>
+<item><nome>Citizen Kane</nome><ano>(1941)</ano><nota>8.3</nota></item>
+<item><nome>M</nome><ano>(1931)</ano><nota>8.3</nota></item>
+<item><nome>Lawrence of Arabia</nome><ano>(1962)</ano><nota>8.3</nota></item>
+<item><nome>North by Northwest</nome><ano>(1959)</ano><nota>8.2</nota></item>
+<item><nome>Vertigo</nome><ano>(1958)</ano><nota>8.2</nota></item>
+<item><nome>Ikiru</nome><ano>(1952)</ano><nota>8.2</nota></item>
+<item><nome>Amélie</nome><ano>(2001)</ano><nota>8.2</nota></item>
+<item><nome>The Apartment</nome><ano>(1960)</ano><nota>8.2</nota></item>
+<item><nome>A Clockwork Orange</nome><ano>(1971)</ano><nota>8.2</nota></item>
+<item><nome>Double Indemnity</nome><ano>(1944)</ano><nota>8.2</nota></item>
+<item><nome>Full Metal Jacket</nome><ano>(1987)</ano><nota>8.2</nota></item>
+<item><nome>Top Gun: Maverick</nome><ano>(2022)</ano><nota>8.2</nota></item>
+<item><nome>Scarface</nome><ano>(1983)</ano><nota>8.2</nota></item>
+<item><nome>Hamilton</nome><ano>(2020)</ano><nota>8.2</nota></item>
+<item><nome>Incendies</nome><ano>(2010)</ano><nota>8.2</nota></item>
+<item><nome>To Kill a Mockingbird</nome><ano>(1962)</ano><nota>8.2</nota></item>
+<item><nome>Heat</nome><ano>(1995)</ano><nota>8.2</nota></item>
+<item><nome>The Sting</nome><ano>(1973)</ano><nota>8.2</nota></item>
+<item><nome>Up</nome><ano>(2009)</ano><nota>8.2</nota></item>
+<item><nome>A Separation</nome><ano>(2011)</ano><nota>8.2</nota></item>
+<item><nome>Metropolis</nome><ano>(1927)</ano><nota>8.2</nota></item>
+<item><nome>Taxi Driver</nome><ano>(1976)</ano><nota>8.2</nota></item>
+<item><nome>L.A. Confidential</nome><ano>(1997)</ano><nota>8.2</nota></item>
+<item><nome>Die Hard</nome><ano>(1988)</ano><nota>8.2</nota></item>
+<item><nome>Snatch</nome><ano>(2000)</ano><nota>8.2</nota></item>
+<item><nome>Indiana Jones and the Last Crusade</nome><ano>(1989)</ano><nota>8.2</nota></item>
+<item><nome>Bicycle Thieves</nome><ano>(1948)</ano><nota>8.2</nota></item>
+<item><nome>Like Stars on Earth</nome><ano>(2007)</ano><nota>8.2</nota></item>
+<item><nome>1917</nome><ano>(2019)</ano><nota>8.2</nota></item>
+<item><nome>Downfall</nome><ano>(2004)</ano><nota>8.2</nota></item>
+<item><nome>Dangal</nome><ano>(2016)</ano><nota>8.2</nota></item>
+<item><nome>For a Few Dollars More</nome><ano>(1965)</ano><nota>8.2</nota></item>
+<item><nome>Batman Begins</nome><ano>(2005)</ano><nota>8.2</nota></item>
+<item><nome>The Kid</nome><ano>(1921)</ano><nota>8.2</nota></item>
+<item><nome>Some Like It Hot</nome><ano>(1959)</ano><nota>8.2</nota></item>
+<item><nome>The Father</nome><ano>(2020)</ano><nota>8.2</nota></item>
+<item><nome>All About Eve</nome><ano>(1950)</ano><nota>8.2</nota></item>
+<item><nome>The Wolf of Wall Street</nome><ano>(2013)</ano><nota>8.2</nota></item>
+<item><nome>Green Book</nome><ano>(2018)</ano><nota>8.2</nota></item>
+<item><nome>Judgment at Nuremberg</nome><ano>(1961)</ano><nota>8.2</nota></item>
+<item><nome>Casino</nome><ano>(1995)</ano><nota>8.2</nota></item>
+<item><nome>Ran</nome><ano>(1985)</ano><nota>8.2</nota></item>
+<item><nome>Pan's Labyrinth</nome><ano>(2006)</ano><nota>8.2</nota></item>
+<item><nome>The Truman Show</nome><ano>(1998)</ano><nota>8.2</nota></item>
+<item><nome>There Will Be Blood</nome><ano>(2007)</ano><nota>8.2</nota></item>
+<item><nome>Unforgiven</nome><ano>(1992)</ano><nota>8.2</nota></item>
+<item><nome>The Sixth Sense</nome><ano>(1999)</ano><nota>8.2</nota></item>
+<item><nome>Shutter Island</nome><ano>(2010)</ano><nota>8.2</nota></item>
+<item><nome>A Beautiful Mind</nome><ano>(2001)</ano><nota>8.2</nota></item>
+<item><nome>Jurassic Park</nome><ano>(1993)</ano><nota>8.1</nota></item>
+<item><nome>Yojimbo</nome><ano>(1961)</ano><nota>8.1</nota></item>
+<item><nome>The Treasure of the Sierra Madre</nome><ano>(1948)</ano><nota>8.1</nota></item>
+<item><nome>Monty Python and the Holy Grail</nome><ano>(1975)</ano><nota>8.1</nota></item>
+<item><nome>The Great Escape</nome><ano>(1963)</ano><nota>8.1</nota></item>
+<item><nome>No Country for Old Men</nome><ano>(2007)</ano><nota>8.1</nota></item>
+<item><nome>Spider-Man: No Way Home</nome><ano>(2021)</ano><nota>8.1</nota></item>
+<item><nome>Kill Bill: Vol. 1</nome><ano>(2003)</ano><nota>8.1</nota></item>
+<item><nome>Rashomon</nome><ano>(1950)</ano><nota>8.1</nota></item>
+<item><nome>The Thing</nome><ano>(1982)</ano><nota>8.1</nota></item>
+<item><nome>Finding Nemo</nome><ano>(2003)</ano><nota>8.1</nota></item>
+<item><nome>The Elephant Man</nome><ano>(1980)</ano><nota>8.1</nota></item>
+<item><nome>Chinatown</nome><ano>(1974)</ano><nota>8.1</nota></item>
+<item><nome>Raging Bull</nome><ano>(1980)</ano><nota>8.1</nota></item>
+<item><nome>V for Vendetta</nome><ano>(2005)</ano><nota>8.1</nota></item>
+<item><nome>Gone with the Wind</nome><ano>(1939)</ano><nota>8.1</nota></item>
+<item><nome>Lock, Stock and Two Smoking Barrels</nome><ano>(1998)</ano><nota>8.1</nota></item>
+<item><nome>Inside Out</nome><ano>(2015)</ano><nota>8.1</nota></item>
+<item><nome>Dial M for Murder</nome><ano>(1954)</ano><nota>8.1</nota></item>
+<item><nome>The Secret in Their Eyes</nome><ano>(2009)</ano><nota>8.1</nota></item>
+<item><nome>Howl's Moving Castle</nome><ano>(2004)</ano><nota>8.1</nota></item>
+<item><nome>Three Billboards Outside Ebbing, Missouri</nome><ano>(2017)</ano><nota>8.1</nota></item>
+<item><nome>The Bridge on the River Kwai</nome><ano>(1957)</ano><nota>8.1</nota></item>
+<item><nome>Trainspotting</nome><ano>(1996)</ano><nota>8.1</nota></item>
+<item><nome>Prisoners</nome><ano>(2013)</ano><nota>8.1</nota></item>
+<item><nome>Warrior</nome><ano>(2011)</ano><nota>8.1</nota></item>
+<item><nome>Fargo</nome><ano>(1996)</ano><nota>8.1</nota></item>
+<item><nome>Gran Torino</nome><ano>(2008)</ano><nota>8.1</nota></item>
+<item><nome>My Neighbor Totoro</nome><ano>(1988)</ano><nota>8.1</nota></item>
+<item><nome>Catch Me If You Can</nome><ano>(2002)</ano><nota>8.1</nota></item>
+<item><nome>Million Dollar Baby</nome><ano>(2004)</ano><nota>8.1</nota></item>
+<item><nome>Children of Heaven</nome><ano>(1997)</ano><nota>8.1</nota></item>
+<item><nome>Blade Runner</nome><ano>(1982)</ano><nota>8.1</nota></item>
+<item><nome>The Gold Rush</nome><ano>(1925)</ano><nota>8.1</nota></item>
+<item><nome>Before Sunrise</nome><ano>(1995)</ano><nota>8.1</nota></item>
+<item><nome>12 Years a Slave</nome><ano>(2013)</ano><nota>8.1</nota></item>
+<item><nome>Klaus</nome><ano>(2019)</ano><nota>8.1</nota></item>
+<item><nome>Harry Potter and the Deathly Hallows: Part 2</nome><ano>(2011)</ano><nota>8.1</nota></item>
+<item><nome>On the Waterfront</nome><ano>(1954)</ano><nota>8.1</nota></item>
+<item><nome>Ben-Hur</nome><ano>(1959)</ano><nota>8.1</nota></item>
+<item><nome>Gone Girl</nome><ano>(2014)</ano><nota>8.1</nota></item>
+<item><nome>The Grand Budapest Hotel</nome><ano>(2014)</ano><nota>8.1</nota></item>
+<item><nome>Wild Strawberries</nome><ano>(1957)</ano><nota>8.1</nota></item>
+<item><nome>The General</nome><ano>(1926)</ano><nota>8.1</nota></item>
+<item><nome>The Third Man</nome><ano>(1949)</ano><nota>8.1</nota></item>
+<item><nome>In the Name of the Father</nome><ano>(1993)</ano><nota>8.1</nota></item>
+<item><nome>The Deer Hunter</nome><ano>(1978)</ano><nota>8.1</nota></item>
+<item><nome>Barry Lyndon</nome><ano>(1975)</ano><nota>8.1</nota></item>
+<item><nome>Hacksaw Ridge</nome><ano>(2016)</ano><nota>8.1</nota></item>
+<item><nome>The Wages of Fear</nome><ano>(1953)</ano><nota>8.1</nota></item>
+<item><nome>Memories of Murder</nome><ano>(2003)</ano><nota>8.1</nota></item>
+<item><nome>Sherlock Jr.</nome><ano>(1924)</ano><nota>8.1</nota></item>
+<item><nome>Wild Tales</nome><ano>(2014)</ano><nota>8.1</nota></item>
+<item><nome>Mr. Smith Goes to Washington</nome><ano>(1939)</ano><nota>8.1</nota></item>
+<item><nome>Mad Max: Fury Road</nome><ano>(2015)</ano><nota>8.1</nota></item>
+<item><nome>The Seventh Seal</nome><ano>(1957)</ano><nota>8.1</nota></item>
+<item><nome>Mary and Max</nome><ano>(2009)</ano><nota>8.1</nota></item>
+<item><nome>How to Train Your Dragon</nome><ano>(2010)</ano><nota>8.1</nota></item>
+<item><nome>Room</nome><ano>(2015)</ano><nota>8.1</nota></item>
+<item><nome>Monsters, Inc.</nome><ano>(2001)</ano><nota>8.1</nota></item>
+<item><nome>Jaws</nome><ano>(1975)</ano><nota>8.1</nota></item>
+<item><nome>Dead Poets Society</nome><ano>(1989)</ano><nota>8.1</nota></item>
+<item><nome>The Big Lebowski</nome><ano>(1998)</ano><nota>8.1</nota></item>
+<item><nome>Tokyo Story</nome><ano>(1953)</ano><nota>8.1</nota></item>
+<item><nome>The Passion of Joan of Arc</nome><ano>(1928)</ano><nota>8.1</nota></item>
+<item><nome>Hotel Rwanda</nome><ano>(2004)</ano><nota>8.0</nota></item>
+<item><nome>Ford v Ferrari</nome><ano>(2019)</ano><nota>8.0</nota></item>
+<item><nome>Rocky</nome><ano>(1976)</ano><nota>8.0</nota></item>
+<item><nome>Platoon</nome><ano>(1986)</ano><nota>8.0</nota></item>
+<item><nome>Ratatouille</nome><ano>(2007)</ano><nota>8.0</nota></item>
+<item><nome>Spotlight</nome><ano>(2015)</ano><nota>8.0</nota></item>
+<item><nome>The Terminator</nome><ano>(1984)</ano><nota>8.0</nota></item>
+<item><nome>Logan</nome><ano>(2017)</ano><nota>8.0</nota></item>
+<item><nome>Stand by Me</nome><ano>(1986)</ano><nota>8.0</nota></item>
+<item><nome>Rush</nome><ano>(2013)</ano><nota>8.0</nota></item>
+<item><nome>Network</nome><ano>(1976)</ano><nota>8.0</nota></item>
+<item><nome>Into the Wild</nome><ano>(2007)</ano><nota>8.0</nota></item>
+<item><nome>Before Sunset</nome><ano>(2004)</ano><nota>8.0</nota></item>
+<item><nome>The Wizard of Oz</nome><ano>(1939)</ano><nota>8.0</nota></item>
+<item><nome>Pather Panchali</nome><ano>(1955)</ano><nota>8.0</nota></item>
+<item><nome>Groundhog Day</nome><ano>(1993)</ano><nota>8.0</nota></item>
+<item><nome>The Best Years of Our Lives</nome><ano>(1946)</ano><nota>8.0</nota></item>
+<item><nome>The Exorcist</nome><ano>(1973)</ano><nota>8.0</nota></item>
+<item><nome>The Incredibles</nome><ano>(2004)</ano><nota>8.0</nota></item>
+<item><nome>To Be or Not to Be</nome><ano>(1942)</ano><nota>8.0</nota></item>
+<item><nome>La haine</nome><ano>(1995)</ano><nota>8.0</nota></item>
+<item><nome>The Battle of Algiers</nome><ano>(1966)</ano><nota>8.0</nota></item>
+<item><nome>Pirates of the Caribbean: The Curse of the Black Pearl</nome><ano>(2003)</ano><nota>8.0</nota></item>
+<item><nome>Hachi: A Dog's Tale</nome><ano>(2009)</ano><nota>8.0</nota></item>
+<item><nome>The Grapes of Wrath</nome><ano>(1940)</ano><nota>8.0</nota></item>
+<item><nome>Jai Bhim</nome><ano>(2021)</ano><nota>8.0</nota></item>
+<item><nome>My Father and My Son</nome><ano>(2005)</ano><nota>8.0</nota></item>
+<item><nome>Amores Perros</nome><ano>(2000)</ano><nota>8.0</nota></item>
+<item><nome>Rebecca</nome><ano>(1940)</ano><nota>8.0</nota></item>
+<item><nome>Cool Hand Luke</nome><ano>(1967)</ano><nota>8.0</nota></item>
+<item><nome>The Handmaiden</nome><ano>(2016)</ano><nota>8.0</nota></item>
+<item><nome>The 400 Blows</nome><ano>(1959)</ano><nota>8.0</nota></item>
+<item><nome>The Sound of Music</nome><ano>(1965)</ano><nota>8.0</nota></item>
+<item><nome>It Happened One Night</nome><ano>(1934)</ano><nota>8.0</nota></item>
+<item><nome>Persona</nome><ano>(1966)</ano><nota>8.0</nota></item>
+<item><nome>Life of Brian</nome><ano>(1979)</ano><nota>8.0</nota></item>
+<item><nome>The Iron Giant</nome><ano>(1999)</ano><nota>8.0</nota></item>
+<item><nome>The Help</nome><ano>(2011)</ano><nota>8.0</nota></item>
+<item><nome>Dersu Uzala</nome><ano>(1975)</ano><nota>8.0</nota></item>
+<item><nome>Aladdin</nome><ano>(1992)</ano><nota>8.0</nota></item>
+<item><nome>Gandhi</nome><ano>(1982)</ano><nota>8.0</nota></item>
+<item><nome>Dances with Wolves</nome><ano>(1990)</ano><nota>8.0</nota></item>
+</items>
